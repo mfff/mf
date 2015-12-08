@@ -412,7 +412,7 @@ textarea.form-control {
 .intro {
 	position: absolute;
 	width: 100%;
-	top: 50%;
+	top: 40%;
 	left: 0;
 	text-align: center;
 	-webkit-transform: translate(0%, -50%);
@@ -659,7 +659,7 @@ textarea.form-control {
 .scroll-down {
 	position: absolute;
 	left: 50%;
-	bottom: 40px;
+	bottom: 20px;
 	border: 2px solid #fff;
 	border-radius: 50%;
 	height: 50px;

@@ -983,7 +983,7 @@ figure.effect-bubba:hover p {
 .cbp-qtprogress {
 	position: absolute;
 	background: #E7746F;
-	height: 2px;
+	height: 1px;
 	top: -2em;
 	z-index: 1000;
 	border-radius: 50%;

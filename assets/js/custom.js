@@ -186,12 +186,6 @@
 			$('.parallax').parallax("50%", 0.1);
 			$('.calltoaction').parallax("50%", 0.1);
 		}
-
-
-
-
-
-		}
 	
 	})
 	

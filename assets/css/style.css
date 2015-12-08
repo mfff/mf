@@ -1023,17 +1023,6 @@ figure.effect-bubba:hover p {
 
 }
 
-@media screen and (max-width: 1024px) { 
-	.icons_skills {
-		font-size: 20px;
-	}
-	.intro_title {
-		font-size: 3em;
-	}
-
-
-
-}
 
 .devicon {
 	color: #474350;
@@ -1069,4 +1058,15 @@ figure.effect-bubba:hover p {
 	font-size: 60px;
 	/*float: left;*/
 	margin: 0 1.5em;
+}
+@media screen and (max-width: 1024px) { 
+	.icons_skills {
+		font-size: 30px;
+	}
+	.intro_title {
+		font-size: 3em;
+	}
+
+
+
 }

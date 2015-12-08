@@ -36,16 +36,8 @@
 		 * Navbar
 		/* ---------------------------------------------- */
 
-		// $('.header').sticky({
-		// 	topSpacing: 0
-		// });
-		$('#custom-collapse').on('shown.bs.collapse', function () {
-		$("html, body").animate({"scrollTop": "0px"},function(){
-		$('.header').unstick();
-		});
-		});
-		$('#custom-collapse').on('hidden.bs.collapse', function () {
-		$('.header').sticky({topSpacing: 0});
+		$('.header').sticky({
+			topSpacing: 0
 		});
 
 		$('body').scrollspy({

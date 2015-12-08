@@ -309,6 +309,12 @@ textarea.form-control {
 	margin: 30px auto;
 }
 
+.pfblock-line2 {
+	width: 100px;
+	height: 0;
+	margin: 30px auto;
+}
+
 .pfblock-icon {
 	font-size: 32px;
 }
@@ -936,6 +942,7 @@ figure.effect-bubba:hover p {
 	margin: 4em auto 4em auto;
 	max-width: 90%;
 	width: 100%;
+	height: 17em;
 }
 
 .cbp-qtrotator .cbp-qtcontent {
